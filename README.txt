@@ -88,3 +88,4 @@ Nome: Matheus Caetano Almeida Lima
 RU: 4675007
 Projeto desenvolvido para fins acadêmicos.
 Testes realizados utilizando Postman.
+Documentação disponível via Swagger/OpenAPI.
